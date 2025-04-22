@@ -1,1 +1,1 @@
-[Look documentation (PDF)](MN_Sprawozdanie.pdf.pdf)
+[Look documentation (PDF)](MN_Sprawozdanie.pdf)
